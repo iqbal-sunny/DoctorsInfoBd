@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Doctors Info Bd</string>
+    <string name="spinner_text1">Select Your Location</string>
+    <string name="spinner_text2">Select Your Specialist</string>
+
+
+    <string-array name="Location_name">
+        <item>Please choose your area...</item>
+        <item>Uttara</item>
+        <item>Bonani</item>
+        <item>Gulshan</item>
+        <item>Dhanmondi</item>
+
+    </string-array>
+
+
+    <string-array name="Specialist_categories">
+        <item>Please choose your Specialist...</item>
+        <item>Cancer</item>
+        <item>Cardiology</item>
+        <item>Child</item>
+        <item>Diabetes</item>
+        <item>Eye</item>
+        <item>Gynecology</item>
+        <item>Nose,Ear,Throat</item>
+        <item>Medicine</item>
+        <item>Orthopaedic</item>
+        <item>Psychiatrist</item>
+        <item>Surgery</item>
+        <item>Urology</item>
+    </string-array>
+    <string name="title_activity_test">Test</string>
+</resources>
